@@ -10,5 +10,13 @@
 *.nav
 *.so
 
-.vscode/
-build/
+
+# IDE 
+**/.idea
+**/.vscode
+**/cmake-build-debug
+
+# build files
+**/build/
+**/build*/
+**/bin/
